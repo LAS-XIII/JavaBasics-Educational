@@ -1,6 +1,6 @@
 # JavaBasics-Educational
 
-FUNZIONALITA:
+FUNZIONALITA
 All'apertura del programma verrà chiesto di inserire un numero da 0 a 5. Alla digitazione di un numero avverrà uno specifico evento, dopodichè verrà richiesto di digitare nuovamente un numero da 0 a 5, concludendosi solo alla digitazione dello 0.
   - 1 : Visualizzare tutti i corsi all'interno del sistema;
   - 2 : Prenotare un corso esistente;
@@ -9,3 +9,4 @@ All'apertura del programma verrà chiesto di inserire un numero da 0 a 5. Alla d
   - 5 : Esportare un file con i corsi pubblici;
   - 0 : Uscire dal programma.
 
+##REALIZZARE IL JAR
