@@ -9,4 +9,10 @@ All'apertura del programma verrà chiesto di inserire un numero da 0 a 5. Alla d
   - 5 : Esportare un file con i corsi pubblici;
   - 0 : Uscire dal programma.
 
-## REALIZZARE IL JAR
+## Realizzare il file .jar eseguibile
+
+UTILIZZARE ECLIPSE
+  1- Estrarre la cartella iniziale contenente il progetto e la cartella con gli assets;
+  2- Aprire su Eclipse il progetto
+  3- Estrarre il progetto come file jar eseguibile con il nome desiderato (es. Educational.jar)(mettendolo nella cartella iniziale in cui sono contenuti sia la cartella del progetto che quella degli assets)
+  4- Aprire il terminale nella cartella iniziale e digitare il comando "java -jar .\Educational.jar" (chiaramente mettendo il nome del file jar utilizzato)
