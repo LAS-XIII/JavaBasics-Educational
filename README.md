@@ -14,5 +14,5 @@ All'apertura del programma verrà chiesto di inserire un numero da 0 a 5. Alla d
 UTILIZZARE ECLIPSE
   - Estrarre la cartella iniziale contenente il progetto e la cartella con gli assets;
   - Aprire su Eclipse il progetto (Education)
-  - Estrarre il progetto come file jar eseguibile con il nome desiderato (es. Educational.jar)(mettendolo nella cartella iniziale in cui sono contenuti sia la cartella del progetto che quella degli assets)
+  - Estrarre il progetto come file jar eseguibile con il nome desiderato (es. Educational.jar)(mettendolo nella cartella iniziale (JavaBasics-Education) in cui sono contenuti sia la cartella del progetto che quella degli assets)
   - Aprire il terminale nella cartella iniziale e digitare il comando "java -jar .\Educational.jar" (chiaramente mettendo il nome del file jar utilizzato)
